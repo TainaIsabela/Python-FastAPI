@@ -1,0 +1,5 @@
+.venv
+.\pamps.egg-info
+.secrets.toml
+.\pytest_cache
+.\pamps\__pycache__
